@@ -1,0 +1,3 @@
+/home/runner/work/CSCD70-Homework/CSCD70-Homework/Website/build/html/Doxygen_build/CMakeFiles/Name.dir
+/home/runner/work/CSCD70-Homework/CSCD70-Homework/Website/build/html/Doxygen_build/CMakeFiles/edit_cache.dir
+/home/runner/work/CSCD70-Homework/CSCD70-Homework/Website/build/html/Doxygen_build/CMakeFiles/rebuild_cache.dir
